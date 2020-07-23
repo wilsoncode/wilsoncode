@@ -1,3 +1,7 @@
+<p align='center'>
+<a href="https://dev.to/waylonwalker"><img height="350" src="https://raw.githubusercontent.com/wilsoncode/wilsoncode/master/octocat.png"></a>
+</p>
+
 ### :space_invader: Hi there 👋
 
 Hi, I'm Wilson. I have over 8 years of experience as a software engineer, and have worked at both small startup and large company with offices across multiple regions. While I’m a proficient full-stack developer, my expertise is in building scalable backend services (API services, service integrations and async mechanism).
