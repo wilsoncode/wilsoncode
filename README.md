@@ -1,5 +1,8 @@
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="350" src="https://raw.githubusercontent.com/wilsoncode/wilsoncode/master/octocat.png"></a>
+<a href="https://dev.to/waylonwalker"><img height="350" src="https://raw.githubusercontent.com/wilsoncode/wilsoncode/master/octocat.png"></a><br />
+<a href="https://dev.to/wilsoncode">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wilson Lai's DEV Profile" height="30" width="30">
+</a>
 </p>
 
 ### :space_invader: Hi there 👋
